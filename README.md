@@ -4,7 +4,6 @@
 
 #   **`Ghada 🇪🇬`**
 
-**`Digital Craftsman (Developer)`**
  <p align="left">
       <a href="">
          <img alt="followers" title="Follow me on Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -26,7 +25,7 @@
 
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
-# **`🇵🇸🇩🇿Hi👋,I'm Mohamed🇵🇸🇩🇿`** 
+# **`Hi👋,I'm Ghada`** 
 
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Imagen redonda" width="150px">
@@ -34,7 +33,7 @@
 
 
 
-# **`🇵🇸🇩🇿A am Python developer from Algeria🇵🇸🇩🇿`** 
+# **`🇵🇸🇩🇿A am from Egypt 🇪🇬`** 
 ## 🚀 About me!
 - **`🔭 I’m currently working on Codezilla cours`** 
 
@@ -74,17 +73,17 @@
 
 <p align="left">
 <p align="left">
-      <a href="https://linktr.ee/code.1001">
+      <a href="">
          <img alt="followers" title="Follow me on Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-      <a href="https://linktr.ee/code.1001">
+      <a href="">
          <img alt="followers" title="Follow me on WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-      <a href="https://discord.gg/z3ZjQhX7">
+      <a href="">
          <img alt="followers" title="Follow me on Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-      <a href="https://www.facebook.com/moh.mohamede.7">
+      <a href="">
          <img alt="followers" title="Follow me on Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-      <a href="https://instagram.com/hiko_dz">
+      <a href="">
          <img alt="followers" title="Follow me on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-      <a href="https://www.tiktok.com/@code.1001">
+      <a href="">
          <img alt="followers" title="Follow me on TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
    
    </p>
