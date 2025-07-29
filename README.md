@@ -57,4 +57,4 @@ I'm open to:
 - Freelance or project collaborations  
 - Sharing and learning from the data community
 
-📩 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/ghada-hassan) or explore my projects below!
+📩 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/ghada-hassan-1147892b1/) or explore my projects below!
