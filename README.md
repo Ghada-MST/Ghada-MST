@@ -1,12 +1,12 @@
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bungee&weight=500&size=30&pause=1000&width=435&lines=Hi+there%2C+I'm+Ghada+Hassan+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bungee&weight=500&size=30&pause=1000&width=435&lines=Hi+there%2C+It's+GreenValley+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 
 <h3 align="center">Data Analyst | Power BI | SQL | Excel | Python</h3>
 
 ---
 
-🔍 I’m a passionate **Data Analyst** with a background in **Geology**, now focused on turning complex data into powerful insights that drive informed decisions.  
+🔍 We're a passionate **Data Analysts** focusing on turning complex data into powerful insights that drive informed decisions.  
 
-🎯 My goal is to combine analytical thinking and storytelling to solve business problems using data.
+🎯 Our goal is to combine analytical thinking and storytelling to solve business problems using data.
 
 ---
 
@@ -44,17 +44,16 @@
 
 ## 🧠 Mindset
 
-I’m a curious and detail-oriented problem solver.  
-I enjoy exploring messy data, asking the right business questions, and turning raw information into actionable recommendations.  
+We're curious and detail-oriented problem solver.  
+We enjoy exploring messy data, asking the right business questions, and turning raw information into actionable recommendations.  
 
-> **“I believe every dataset has a story – you just need to know how to read it.”**
+> **“We believe every dataset has a story – you just need to know how to read it.”**
 
 ---
 
 ## 📫 Let’s Connect!
 
-I'm open to:
-- Data analyst internships or junior roles  
+We're open to:  
 - Freelance or project collaborations  
 - Sharing and learning from the data community
 
