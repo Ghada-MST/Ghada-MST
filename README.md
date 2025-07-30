@@ -10,7 +10,7 @@
 
 ---
 
-## 💡 I Specialize In:
+## 💡 We Specialize In:
 
 - 📊 Power BI dashboards & DAX measures  
 - 🧹 Data cleaning & transformation (Excel, Power Query, Python)  
