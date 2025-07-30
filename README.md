@@ -1,6 +1,6 @@
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bungee&weight=500&size=30&pause=1000&width=435&lines=Hi+there%2C+It's+GreenValley+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 
-<h3 align="center">Data Analyst | Power BI | SQL | Excel | Python</h3>
+<h3 align="center">Data Analysis | Power BI | SQL | Excel | Python</h3>
 
 ---
 
